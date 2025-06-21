@@ -1,0 +1,7 @@
+flask>=2.2.0  # Versión compatible con flask-sqlalchemy 3.0.0
+flask-sqlalchemy==3.0.0
+flask-login==0.5.0  # Compatible con Flask 2.x
+flask-admin==1.6.0  # Funciona con Flask 2.x
+selenium==4.1.0
+bcrypt==3.2.0
+python-dotenv==0.19.0
